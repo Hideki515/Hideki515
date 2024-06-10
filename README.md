@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Códigos para os snake -->
-![Snake animation](https://github.com/Hideki515/Hideki515/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/artur-debv/Hideki515/blob/output/github-contribution-grid-snake.svg)
