@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/Hideki515">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideki515&layout=compact&langs_count=7&theme=midnight-purple"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hideki515&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hideki515&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
